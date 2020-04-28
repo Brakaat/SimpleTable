@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "restaurant.jpg",
+      "filename" : "Cafe Loisl.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "restaurant@2x.jpg",
+      "filename" : "Cafe Loisl@2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "restaurant@3x.jpg",
+      "filename" : "Cafe Loisl@3x.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
